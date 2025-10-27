@@ -3,6 +3,8 @@
 
 A modern movie booking web application built with the MERN stack (MongoDB, Express.js, React, Node.js). Book your favorite movies, select seats, and manage shows with ease.
 
+🌐 **[Live Demo](https://quickshow-client-kohl.vercel.app/)** | [GitHub](https://github.com/PriyanshuDalakoti/QuickShow)
+
 ## Features ✨
 
 - Browse currently playing movies
@@ -97,6 +99,9 @@ Contributions are welcome! Please:
 
 ## Contact 📧
 
-Priyanshu Dalakoti - [Your Contact Info]
 
-Project Link: https://github.com/PriyanshuDalakoti/QuickShow
+
+## Deployment 🚀
+
+- Frontend: [https://quickshow-client-kohl.vercel.app/](https://quickshow-client-kohl.vercel.app/)
+- Backend: Deployed on Vercel
